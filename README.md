@@ -51,8 +51,8 @@
         </tr>
         <tr>
             <td align="center"><b>Day 02</b><br>17-Dec-2024</td>
-            <td align="center"><a href="">10PM PKT DSA for Absolute Beginners | Week 1 | Day 1</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1yKT9XCfTzimCsl4R_qY4kWL3p31obnwn/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
+            <td align="center"><a href="">10PM PKT DSA for Absolute Beginners | Week 1 | Day 2</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1YNfKG_WHybRxB4no7lurvxka1rPZtNiJ/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
             <td align="center">Introduction to Arrays<br>Solved Leetcode 2239</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>    
