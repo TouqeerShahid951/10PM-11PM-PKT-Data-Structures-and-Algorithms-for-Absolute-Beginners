@@ -43,11 +43,18 @@
         </tr>
         <tr>
             <td align="center" rowspan="5"><b>Week 01</b></td>
-            <td align="center"><b>Day 01</b><br>28-Oct-2024</td>
+            <td align="center"><b>Day 01</b><br>16-Dec-2024</td>
             <td align="center"><a href="https://www.facebook.com/share/v/14FwoLyavM/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 1</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1yKT9XCfTzimCsl4R_qY4kWL3p31obnwn/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
             <td align="center">Introduction to DSA<br>Time and space complexity</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr>     
+        </tr>
+        <tr>
+            <td align="center"><b>Day 02</b><br>17-Dec-2024</td>
+            <td align="center"><a href="">10PM PKT DSA for Absolute Beginners | Week 1 | Day 1</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1yKT9XCfTzimCsl4R_qY4kWL3p31obnwn/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
+            <td align="center">Introduction to Arrays<br>Solved Leetcode 2239</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr>    
 </tbody>
 </table>
