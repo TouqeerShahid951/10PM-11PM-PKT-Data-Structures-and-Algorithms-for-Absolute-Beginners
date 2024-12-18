@@ -59,6 +59,7 @@
            <tr>
             <td align="center"><b>Day 03</b><br>18-Dec-2024</td>
             <td align="center"><a href="https://www.facebook.com/share/v/19eVwx1dUY/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 3</a></td>
+            <td></td>
             <td align="center">Solved Leetcode: 27, 217</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>    
