@@ -14,16 +14,23 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/TouqeerShahid951">
-                    <img src="https://avatars.githubusercontent.com/u/73354832?s=400&u=82a0352cdb9d7ca322656df7cddab0ba4e028bbf&v=4" width="100px;" alt="Sheharyar Anwar"/>
+                    <img src="https://avatars.githubusercontent.com/u/73354832?s=400&u=82a0352cdb9d7ca322656df7cddab0ba4e028bbf&v=4" width="100px;" alt="Touqeer Shahid"/>
                     <br />
                     <sub><b>Touqeer Shahid</b></sub>
                 </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/zubairjameel">
-                    <img src="https://avatars.githubusercontent.com/u/108864474?v=4" width="100px;" alt="Laiba Khan"/>
+                    <img src="https://avatars.githubusercontent.com/u/108864474?v=4" width="100px;" alt="Zubair Jameel"/>
                     <br />
                     <sub><b>Zubair Jameel</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/sana261">
+                    <img src="https://avatars.githubusercontent.com/u/175141665?v=4" width="100px;" alt="Sana Qaisar"/>
+                    <br />
+                    <sub><b>Sana Qaisar</b></sub>
                 </a> 
             </td>
         </tr> 
