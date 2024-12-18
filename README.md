@@ -55,6 +55,14 @@
             <td align="center"><a href="https://docs.google.com/presentation/d/1YNfKG_WHybRxB4no7lurvxka1rPZtNiJ/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
             <td align="center">Introduction to Arrays<br>Solved Leetcode 2239</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr>
+           <tr>
+            <td align="center"><b>Day 03</b><br>18-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19eVwx1dUY/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 3</a></td>
+            <td align="center">Solved Leetcode: 27, 217</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>    
+
+        
 </tbody>
 </table>
