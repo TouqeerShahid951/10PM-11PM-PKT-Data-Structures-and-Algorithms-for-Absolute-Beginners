@@ -78,6 +78,14 @@
             <td align="center">Solved Leetcode: 27, 217</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr> 
+        </tr>
+           <tr>
+            <td align="center"><b>Day 05</b><br>20-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/16xiMcAvpD/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 5</a></td>
+            <td></td>
+            <td align="center">Solved Leetcode: 121, 53</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr> 
 
         
 </tbody>
