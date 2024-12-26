@@ -85,7 +85,34 @@
             <td></td>
             <td align="center">Solved Leetcode: 121, 53</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr>
+         <tr>
+            <td align="center" rowspan="5"><b>Week 02</b></td>
+            <td align="center"><b>Day 01</b><br>23-Dec-2024</td>
+            <td align="center" columnspan = "5" >This session never happened due to another an AI session</a></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center"><b>Day 02</b><br>24-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/15ZHmXYJ5R/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 2</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1YNfKG_WHybRxB4no7lurvxka1rPZtNiJ/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
+            <td align="center">Introduction to Hash Map & Sets<br> Solved Leetcode 242. Valid Anagram</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr>
+           <tr>
+            <td align="center"><b>Day 03</b><br>25-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/15ohK2Cyms/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 3</a></td>
+            <td></td>
+            <td align="center">Solved Leetcode: 1189. Maximum Number of Balloons, Product of Array Except Self</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+        </tr>
+         </tr>
+           <tr>
+            <td align="center"><b>Day 04</b><br>26-Dec-2024</td>
         </tr> 
+        </tr>
 
         
 </tbody>
