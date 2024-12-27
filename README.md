@@ -111,6 +111,10 @@
          </tr>
            <tr>
             <td align="center"><b>Day 04</b><br>26-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/18NHVEcPyj/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 4</a></td>
+            <td></td>
+            <td align="center">Solved Leetcode: 1. Two Sum, 13. Roman to Integer</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr> 
         </tr>
 
