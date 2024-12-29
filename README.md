@@ -116,6 +116,13 @@
             <td align="center">Solved Leetcode: 1. Two Sum, 13. Roman to Integer</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr> 
+        <tr>
+            <td align="center"><b>Day 05</b><br>27-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1M8zH8EAhc/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 5</a></td>
+            <td></td>
+            <td align="center">Solved Leetcode: 1920. Build Array from Permutation</td>
+            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+        </tr>
         </tr>
 
         
