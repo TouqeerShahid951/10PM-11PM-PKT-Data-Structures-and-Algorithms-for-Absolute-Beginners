@@ -37,7 +37,7 @@
     </tbody>
 </table>
 
-# Week 01
+# Duration: 6 Weeks
 <table style="border-collapse: separate; border-spacing: 0 10px;">
     <tbody>
         <tr>
