@@ -1,4 +1,4 @@
-# 10PM-11PM-PKT-Data-Structures-and-Algorithms-for-Absolute-Beginners
+# 10PM PKT-Data-Structures-and-Algorithms-for-Absolute-Beginners
 **What You'll Find Here:**
 
 **Slides:** Presentation slides designed for use in teaching DSA sessions.
