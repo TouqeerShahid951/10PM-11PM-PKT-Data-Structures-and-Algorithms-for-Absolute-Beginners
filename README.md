@@ -123,6 +123,13 @@
             <td align="center">Solved Leetcode: 1920. Build Array from Permutation</td>
             <td align="center">Zubair Jameel & Touqeer Shahid</td>
         </tr>
+        <tr>
+            <td align="center" rowspan="5"><b>Week 03</b></td>
+            <td align="center"><b>Day 01</b><br>30-Dec-2024</td>
+            <td align="center"><a href="https://web.facebook.com/share/v/1BJev27kKF/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 1</a></td>
+            <td align="center"><a href="https://drive.google.com/file/d/1DdhuL8EL72rEg0Yup8KJfN0vRCPt3mEs/view">Slides</a></td>
+            <td align="center">Introduction to DSA<br>Time and space complexity</td>
+            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>
 
         
