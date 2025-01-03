@@ -145,5 +145,12 @@
             <td align="center">Solved Valid Palindrome, 3Sum</td>
             <td align="center">Zubair Jameel & Touqeer Shahid</td>
          </tr>
+     <tr>
+            <td align="center"><b>Day 04</b><br>01/Jan/2025</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19y85yH2wG/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 4</a></td>
+            <td></td>
+            <td align="center">Solved 3 Sum, Happy Number</td>
+            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+         </tr>
 </tbody>
 </table>
