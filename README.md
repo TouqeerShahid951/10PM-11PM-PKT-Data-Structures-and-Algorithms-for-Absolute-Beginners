@@ -131,7 +131,19 @@
             <td align="center">Introduction to Two Pointers<br>11. Container With Most Water</td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>
-
-        
+        <tr>
+            <td align="center"><b>Day 02</b><br>31/Dec/2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1BNEni5xJM/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 2</a></td>
+            <td></td>
+            <td align="center">Solved 3Sum, Two Sum II - Input Array Is Sorted</td>
+            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+         </tr>
+            <tr>
+            <td align="center"><b>Day 03</b><br>01/Jan/2025</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1XHSAsvnD1/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 3</a></td>
+            <td></td>
+            <td align="center">Solved Valid Palindrome, 3Sum</td>
+            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+         </tr>
 </tbody>
 </table>
