@@ -146,10 +146,17 @@
             <td align="center">Zubair Jameel & Touqeer Shahid</td>
          </tr>
      <tr>
-            <td align="center"><b>Day 04</b><br>01/Jan/2025</td>
+            <td align="center"><b>Day 04</b><br>02/Jan/2025</td>
             <td align="center"><a href="https://www.facebook.com/share/v/19y85yH2wG/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 4</a></td>
             <td></td>
             <td align="center">Solved 3 Sum, Happy Number</td>
+            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+         </tr>
+     <tr>
+            <td align="center"><b>Day 05</b><br>03/Jan/2025</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/15mRiFugFJ/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 4</a></td>
+            <td></td>
+            <td align="center">Solved Missing Number, Happy Number</td>
             <td align="center">Zubair Jameel & Touqeer Shahid</td>
          </tr>
 </tbody>
