@@ -165,7 +165,7 @@
             <td align="center"><a href="https://www.facebook.com/share/v/1Beb4VV9JZ/">10PM PKT DSA for Absolute Beginners | Week 4 | Day 1</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1JMYnjZWmPknPVAQ9LTyfJsf4zpsQsW93/edit?usp=sharing&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
          <td align="center"><a href="https://docs.google.com/presentation/d/1WcZjZKutKJadjN-OrLVNoFw9rAWI7G-S/edit?usp=drive_link&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
-            <td align="center">Introduction to Stack & Queue<br>232. Implement Queue using Stacks</td>
+            <td align="center">Introduction to Stack & Queue<br></td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>
 </tbody>
