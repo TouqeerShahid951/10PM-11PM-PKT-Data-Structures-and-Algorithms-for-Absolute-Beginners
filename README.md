@@ -163,8 +163,7 @@
             <td align="center" rowspan="5"><b>Week 04</b></td>
             <td align="center"><b>Day 01</b><br>6-Jan-2025</td>
             <td align="center"><a href="https://www.facebook.com/share/v/1Beb4VV9JZ/">10PM PKT DSA for Absolute Beginners | Week 4 | Day 1</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1JMYnjZWmPknPVAQ9LTyfJsf4zpsQsW93/edit?usp=sharing&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
-         <td align="center"><a href="https://docs.google.com/presentation/d/1WcZjZKutKJadjN-OrLVNoFw9rAWI7G-S/edit?usp=drive_link&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1JMYnjZWmPknPVAQ9LTyfJsf4zpsQsW93/edit?usp=sharing&ouid=103185993628413679099&rtpof=true&sd=true"><a href="https://docs.google.com/presentation/d/1WcZjZKutKJadjN-OrLVNoFw9rAWI7G-S/edit?usp=drive_link&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
             <td align="center">Introduction to Stack & Queue<br></td>
             <td align="center"> Zubair Jameel & Touqeer Shahid</td>
         </tr>
