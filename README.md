@@ -1,4 +1,5 @@
 # 10PM PKT-Data-Structures-and-Algorithms-for-Absolute-Beginners
+
 **What You'll Find Here:**
 
 **Slides:** Presentation slides designed for use in teaching DSA sessions.
@@ -26,146 +27,260 @@
                     <sub><b>Zubair Jameel</b></sub>
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/sana261">
-                    <img src="https://avatars.githubusercontent.com/u/175141665?v=4" width="100px;" alt="Sana Qaisar"/>
-                    <br />
-                    <sub><b>Sana Qaisar</b></sub>
-                </a> 
-            </td>
         </tr> 
     </tbody>
 </table>
 
-# Duration: 6 Weeks
-<table style="border-collapse: separate; border-spacing: 0 10px;">
+# Course Schedule - 6 Weeks
+
+## Week 1: Arrays
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-            <th>Week</th>
-            <th>Days</th>
-            <th>Video Links (Facebook)</th>
-            <th>Materials</th>
+            <td>16 Dec 2024</td>
+            <td>Introduction to Data Structures and Algorithms</td>
+            <td>Zubair Jamil, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/15StUPPZnc/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>17 Dec 2024</td>
+            <td>Introduction to Array / LC-2239: Find Closest Number to Zero</td>
+            <td>Zubair Jamil, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/17XZg5kpki/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>18 Dec 2024</td>
+            <td>LC-27: Remove Element, LC-217: Contains Duplicate</td>
+            <td>Sana Qaisar</td>
+            <td><a href="https://www.facebook.com/share/v/1BbsxoAqG7/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>19 Dec 2024</td>
+            <td>Summary Ranges, Two Pointers</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/12BKfwyXskC/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>20 Dec 2024</td>
+            <td>LC-121: Best Time to Buy and Sell Stock, LC-53: Maximum Subarray</td>
+            <td>Muhammad Arslan</td>
+            <td><a href="https://www.facebook.com/share/v/1DZP8Dg5Xe/">Watch</a></td>
+        </tr>
+    </tbody>
+</table>
+
+## Week 2: Hash Map & Sets
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
             <th>Topics</th>
-            <th align="center">Trainer Name</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>24 Dec 2024</td>
+            <td>Introduction to Hash Map & Sets, LC-242: Valid Anagram</td>
+            <td>Zubair Jamil, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/15ZHmXYJ5R/">Watch</a></td>
         </tr>
         <tr>
-            <td align="center" rowspan="5"><b>Week 01</b></td>
-            <td align="center"><b>Day 01</b><br>16-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/14FwoLyavM/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 1</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1yKT9XCfTzimCsl4R_qY4kWL3p31obnwn/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
-            <td align="center">Introduction to DSA<br>Time and space complexity</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+            <td>25 Dec 2024</td>
+            <td>LC-1189: Maximum Number of Balloons, Product of Array Except Self</td>
+            <td>Zubair Jamil, Areeba Abid</td>
+            <td><a href="https://www.facebook.com/share/v/15ohK2Cyms/">Watch</a></td>
         </tr>
         <tr>
-            <td align="center"><b>Day 02</b><br>17-Dec-2024</td>
-            <td align="center"><a href="">10PM PKT DSA for Absolute Beginners | Week 1 | Day 2</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1YNfKG_WHybRxB4no7lurvxka1rPZtNiJ/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
-            <td align="center">Introduction to Arrays<br>Solved Leetcode 2239</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr>
-           <tr>
-            <td align="center"><b>Day 03</b><br>18-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/19eVwx1dUY/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 3</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 27, 217</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr>
-         </tr>
-           <tr>
-            <td align="center"><b>Day 04</b><br>19-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1BfL3ie73j/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 4</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 27, 217</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr> 
-        </tr>
-           <tr>
-            <td align="center"><b>Day 05</b><br>20-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/16xiMcAvpD/">10PM PKT DSA for Absolute Beginners | Week 1 | Day 5</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 121, 53</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr>
-         <tr>
-            <td align="center" rowspan="5"><b>Week 02</b></td>
-            <td align="center"><b>Day 01</b><br>23-Dec-2024</td>
-            <td align="center" columnspan = "5" >This session never happened due to another an AI session</a></td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center"></td>
+            <td>26 Dec 2024</td>
+            <td>LC-1: Two Sum, LC-13: Roman to Integer</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/18NHVEcPyj/">Watch</a></td>
         </tr>
         <tr>
-            <td align="center"><b>Day 02</b><br>24-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/15ZHmXYJ5R/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 2</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1YNfKG_WHybRxB4no7lurvxka1rPZtNiJ/edit?usp=sharing&ouid=111243441221144049415&rtpof=true&sd=true">Slides</a></td>
-            <td align="center">Introduction to Hash Map & Sets<br> Solved Leetcode 242. Valid Anagram</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+            <td>27 Dec 2024</td>
+            <td>LC-1920: Build Array from Permutation</td>
+            <td>Gohar Fatima Ali</td>
+            <td><a href="https://www.facebook.com/share/v/1M8zH8EAhc/">Watch</a></td>
         </tr>
-           <tr>
-            <td align="center"><b>Day 03</b><br>25-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/15ohK2Cyms/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 3</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 1189. Maximum Number of Balloons, Product of Array Except Self</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr>
-         </tr>
-           <tr>
-            <td align="center"><b>Day 04</b><br>26-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/18NHVEcPyj/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 4</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 1. Two Sum, 13. Roman to Integer</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
-        </tr> 
+    </tbody>
+</table>
+
+## Week 3: Two Pointers
+<table>
+    <thead>
         <tr>
-            <td align="center"><b>Day 05</b><br>27-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1M8zH8EAhc/">10PM PKT DSA for Absolute Beginners | Week 2 | Day 5</a></td>
-            <td></td>
-            <td align="center">Solved Leetcode: 1920. Build Array from Permutation</td>
-            <td align="center">Zubair Jameel & Touqeer Shahid</td>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>30 Dec 2024</td>
+            <td>LC-11: Container With Most Water</td>
+            <td>Touqeer Shahid, Areeba Abid</td>
+            <td><a href="https://web.facebook.com/share/v/1BJev27kKF/">Watch</a></td>
         </tr>
         <tr>
-            <td align="center" rowspan="5"><b>Week 03</b></td>
-            <td align="center"><b>Day 01</b><br>30-Dec-2024</td>
-            <td align="center"><a href="https://web.facebook.com/share/v/1BJev27kKF/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 1</a></td>
-            <td align="center"><a href="https://drive.google.com/file/d/1DdhuL8EL72rEg0Yup8KJfN0vRCPt3mEs/view">Slides</a></td>
-            <td align="center">Introduction to Two Pointers<br>11. Container With Most Water</td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+            <td>31 Dec 2024</td>
+            <td>3Sum, Two Sum II - Input Array Is Sorted</td>
+            <td>Sana Qaiser</td>
+            <td><a href="https://www.facebook.com/share/v/1BNEni5xJM/">Watch</a></td>
         </tr>
         <tr>
-            <td align="center"><b>Day 02</b><br>31/Dec/2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1BNEni5xJM/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 2</a></td>
-            <td></td>
-            <td align="center">Solved 3Sum, Two Sum II - Input Array Is Sorted</td>
-            <td align="center">Zubair Jameel & Touqeer Shahid</td>
-         </tr>
-            <tr>
-            <td align="center"><b>Day 03</b><br>01/Jan/2025</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1XHSAsvnD1/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 3</a></td>
-            <td></td>
-            <td align="center">Solved Valid Palindrome, 3Sum</td>
-            <td align="center">Zubair Jameel & Touqeer Shahid</td>
-         </tr>
-     <tr>
-            <td align="center"><b>Day 04</b><br>02/Jan/2025</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/19y85yH2wG/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 4</a></td>
-            <td></td>
-            <td align="center">Solved 3 Sum, Happy Number</td>
-            <td align="center">Zubair Jameel & Touqeer Shahid</td>
-         </tr>
-     <tr>
-            <td align="center"><b>Day 05</b><br>03/Jan/2025</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/15mRiFugFJ/">10PM PKT DSA for Absolute Beginners | Week 3 | Day 4</a></td>
-            <td></td>
-            <td align="center">Solved Missing Number, Happy Number</td>
-            <td align="center">Zubair Jameel & Touqeer Shahid</td>
-         </tr>
-     <tr>
-            <td align="center" rowspan="5"><b>Week 04</b></td>
-            <td align="center"><b>Day 01</b><br>6-Jan-2025</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1Beb4VV9JZ/">10PM PKT DSA for Absolute Beginners | Week 4 | Day 1</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1JMYnjZWmPknPVAQ9LTyfJsf4zpsQsW93/edit?usp=sharing&ouid=103185993628413679099&rtpof=true&sd=true"><a href="https://docs.google.com/presentation/d/1WcZjZKutKJadjN-OrLVNoFw9rAWI7G-S/edit?usp=drive_link&ouid=103185993628413679099&rtpof=true&sd=true">Slides</a></td>
-            <td align="center">Introduction to Stack & Queue<br></td>
-            <td align="center"> Zubair Jameel & Touqeer Shahid</td>
+            <td>1 Jan 2025</td>
+            <td>Valid Palindrome, 3Sum</td>
+            <td>Zubair Jamil, Sana Qaiser</td>
+            <td><a href="https://www.facebook.com/share/v/1XHSAsvnD1/">Watch</a></td>
         </tr>
-</tbody>
+        <tr>
+            <td>2 Jan 2025</td>
+            <td>3Sum, Happy Number</td>
+            <td>Sana Qaiser, Areeba Abid</td>
+            <td><a href="https://www.facebook.com/share/v/19y85yH2wG/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>3 Jan 2025</td>
+            <td>Missing Number, Happy Number</td>
+            <td>Burhan, Areeba Abid</td>
+            <td><a href="https://www.facebook.com/share/v/15mRiFugFJ/">Watch</a></td>
+        </tr>
+    </tbody>
+</table>
+
+## Week 4: Stacks & Queues
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>6 Jan 2025</td>
+            <td>Introduction to Stacks & Queues</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/1Beb4VV9JZ/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>7 Jan 2025</td>
+            <td>Valid Parenthesis</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/15va3vW4Mg/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>8 Jan 2025</td>
+            <td>LC-155: Min Stack</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/1B6Gvf1PLy/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>9 Jan 2025</td>
+            <td>Remove All Adjacent Duplicates In String, Baseball-game</td>
+            <td>Areeba Abid, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/15khe9nPJK/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>10 Jan 2025</td>
+            <td>Make The String Great, Minimum String Length After Removing Substrings</td>
+            <td>Burhan, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/19mfqPxWed/">Watch</a></td>
+        </tr>
+    </tbody>
+</table>
+
+## Week 5: Linked List
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>14 Jan 2025</td>
+            <td>Introduction to Linked List</td>
+            <td>Areeba Abid</td>
+            <td><a href="https://www.facebook.com/share/v/1H8AU899CX/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>15 Jan 2025</td>
+            <td>LC-206: Reverse Linked List, LC-876: Middle of the Linked List</td>
+            <td>Zubair Jamil, Sana Qaiser</td>
+            <td><a href="https://www.facebook.com/share/v/186ALtp5e8/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>16 Jan 2025</td>
+            <td>LC-2: Add Two Numbers</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/1CwWSsuxXH/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>17 Jan 2025</td>
+            <td>Palindrome Linked List</td>
+            <td>Touseef</td>
+            <td><a href="https://www.facebook.com/share/v/18FEn9r9CC/">Watch</a></td>
+        </tr>
+    </tbody>
+</table>
+
+## Week 6: Binary Search
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>Trainers</th>
+            <th>Recording</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>20 Jan 2025</td>
+            <td>Introduction to Binary Search, LC-704: Binary Search</td>
+            <td>Areeba Abid, Sana Qaiser</td>
+            <td><a href="https://www.facebook.com/share/v/15tLbXrsLN/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>21 Jan 2025</td>
+            <td>Minimum Common Value</td>
+            <td>Sana Qaiser</td>
+            <td><a href="https://www.facebook.com/share/v/1A4QZY2Ae8/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>22 Jan 2025</td>
+            <td>LC-34: Find First and Last Position of Element in Sorted Array</td>
+            <td>Touqeer Shahid</td>
+            <td>Not Recorded</td>
+        </tr>
+        <tr>
+            <td>23 Jan 2025</td>
+            <td>LC-162: Find Peak Element</td>
+            <td>Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/1BHE83o5vd/">Watch</a></td>
+        </tr>
+        <tr>
+            <td>24 Jan 2025</td>
+            <td>First Bad Version, 2D Matrix</td>
+            <td>Zubair Jamil, Touqeer Shahid</td>
+            <td><a href="https://www.facebook.com/share/v/1DYtDRZXGW/">Watch</a></td>
+        </tr>
+    </tbody>
 </table>
